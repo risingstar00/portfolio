@@ -1916,15 +1916,18 @@ div#preloader {
 /*  17.Home Page 3  CSS
 /*----------------------------------------*/
 
-.home-video {
+/* .home-video {
   height: 100%;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
   z-index: -1;
+} */
+.slides video{
+  width: 100%;
+  display: block;
 }
-
 .header-image.home-3 {
   width: 100%;
   height: 100%;
