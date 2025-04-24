@@ -1170,7 +1170,7 @@ div#preloader {
 }
 
 .add-actions {
-  background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+  background: rgba(187 151 133 / 60%) none repeat scroll 0 0;
   bottom: 30px;
   display: block;
   height: 100%;
@@ -1916,14 +1916,14 @@ div#preloader {
 /*  17.Home Page 3  CSS
 /*----------------------------------------*/
 
-/* .home-video {
-  height: 100%;
+.home-video {
+  /* height: 100%;
   left: 0;
   position: absolute;
-  top: 0;
-  width: 100%;
-  z-index: -1;
-} */
+  top: 0; */
+  /* width: 100%; */
+  /* z-index: -1; */
+}
 .slides video{
   width: 100%;
   display: block;
